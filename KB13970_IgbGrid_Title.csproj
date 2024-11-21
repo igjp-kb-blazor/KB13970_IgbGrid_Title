@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IgniteUI.Blazor" Version="23.2.257" />
+	  <PackageReference Include="IgniteUI.Blazor" Version="24.2.19" />
   </ItemGroup>
 
 </Project>
